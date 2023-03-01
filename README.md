@@ -41,7 +41,7 @@ Download the starter program files and copy them to the project’s /src directo
 Because this activity uses C++ 11 features, you may need to add the -std=c++11 compiler switch to the miscellaneous settings.
 
 
-**Task 1: Internal structure for list entries, housekeeping variables. Create the structure, internal to the class, that will hold the bid entries. Consider what other variables are needed to help manage the list.**
+**Task 1: Internal structure for list entries, housekeeping variables. Create the structure, internal to the class, that will hold the bid entries. Consider what other variables are needed to help manage the list.
 
 **Task 2: Initialize housekeeping variables. Remember to initialize the housekeeping variables in the constructor.
 
